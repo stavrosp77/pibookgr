@@ -1,1 +1,0 @@
-Το CAPTCHA είναι το αρκτικόλεξο της φράσης (C)ompletely (A)utomated (P)ublic (T)uring test to tell (C)omputers and (H)umans (A)part. Η βασική του λειτουργία είναι να εμποδίζει spammers, bots και brute force επιθέσεις μέσω ενός αυτοματοποιημένου τεστ, το οποίο αναστέλλει τη λειτουργία άλλων αυτοματοποιημένων διεργασιών.
